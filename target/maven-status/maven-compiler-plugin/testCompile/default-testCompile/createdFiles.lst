@@ -1,0 +1,5 @@
+stepDefs\UIStepDefs\YandexLoginUIStepDefs.class
+runner\RunnerClass.class
+stepDefs\UIStepDefs\GoogleSearchUIStepDefs.class
+stepDefs\UIStepDefs\BaseUITest.class
+stepDefs\APIStepDefs\testAPIStepDefs.class

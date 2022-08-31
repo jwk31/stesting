@@ -1,0 +1,12 @@
+API\helperMethods\HelperAPI.class
+UI\pageObjects\yandex\YandexIndexPage.class
+UI\utils\Driver.class
+UI\pageObjects\yandex\MailPage.class
+UI\pageObjects\yandex\LoginPage.class
+dataProviders\ConfigReader.class
+UI\pageObjects\google\ResultPage.class
+UI\pageObjects\BasePage.class
+UI\helperMethods\HelperUI.class
+UI\pageObjects\google\GoogleIndexPage.class
+UI\utils\FireFoxWebDriver.class
+UI\utils\ChromeWebDriver.class
